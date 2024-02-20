@@ -2,6 +2,10 @@
 
 This project is a simple audio player application that allows users to upload audio files (e.g., mp3), store them using built-in browser APIs, and play them in a playlist. The application features a standard HTML audio player and provides a playlist view along with a "Now Playing" display.
 
+## Project Links
+
+- **Live Demo:** [Audio Player](https://audio-player-alpha-seven.vercel.app/)
+
 ## Features
 
 - **Upload Audio Files:** Users can upload audio files, currently supporting mp3 format.
