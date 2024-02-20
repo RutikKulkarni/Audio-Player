@@ -1,0 +1,15 @@
+.audioPlayer {
+  padding: 20px;
+  border: 1px solid #ddd;
+  background-color: #f0f0f0;
+  margin-bottom: 20px;
+  text-align: center;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+}
+
+.songName {
+  margin-top: 10px;
+  font-size: 1.2em;
+  color: #333;
+}
